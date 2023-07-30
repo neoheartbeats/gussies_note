@@ -1,2 +1,2 @@
 # gussies_note
- Rocket.Chat 古司 AI
+ 古司日记
