@@ -1,4 +1,3 @@
-openai~=0.27.8
-tiktoken~=0.4.0
-ujson~=5.8.0
-rocketchat_API
+openai
+tiktoken
+python-telegram-bot
